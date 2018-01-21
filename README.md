@@ -1,0 +1,3 @@
+# MeTube-System
+
+In this project, we developed and tested an online multimedia database system which is called MeTube. It provides an appropriate platform for users to share multimedia files online. As a modified version of YouTube, Metube system supports more media types, such as graphics objects, video, audio, images, and animation clips. We developed this Metube system using MySQL and PHP with the web server provided by the School of Computing, and tested it under the latest IE, Firefox and Chrome web browsers on Linux operating system. You can access our Metube system by visiting the following link:  https://people.cs.clemson.edu/~wei8/Demo/public/index.php .
